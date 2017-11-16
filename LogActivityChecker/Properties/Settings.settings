@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LogActivityChecker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DailyErrorLimit" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="CheckInterval" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="InactivityLimit" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="OnErrorProcess" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">msg.exe</Value>
+    </Setting>
+    <Setting Name="OnErrorProcessArguments" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Sjakoet861 hello</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
